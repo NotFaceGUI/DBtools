@@ -3,7 +3,7 @@ package com.notface.form;
 import com.notface.TableInitialization;
 import com.notface.sql.CreateTable;
 import com.notface.sql.DDLTool;
-import com.notface.sql.JdbcUtil;
+import com.notface.util.JdbcUtil;
 import com.notface.sql.SQLParameter;
 
 import javax.swing.*;

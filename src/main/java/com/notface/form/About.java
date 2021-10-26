@@ -1,6 +1,6 @@
 package com.notface.form;
 
-import com.notface.PropertiesUtil;
+import com.notface.util.PropertiesUtil;
 
 import javax.swing.*;
 import java.awt.*;

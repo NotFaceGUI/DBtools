@@ -2,11 +2,12 @@ package com.notface.form;
 
 
 import com.formdev.flatlaf.FlatLaf;
-import com.notface.PropertiesUtil;
+import com.notface.util.JdbcUtil;
+import com.notface.util.PropertiesUtil;
 import com.notface.TableInitialization;
-import com.notface.icondata.IconData;
-import com.notface.info.ErrorInfo;
-import com.notface.jtree.ConnectionTree;
+import com.notface.util.icondata.IconData;
+import com.notface.util.info.ErrorInfo;
+import com.notface.util.jtree.ConnectionTree;
 import com.notface.sql.*;
 
 import javax.swing.*;
