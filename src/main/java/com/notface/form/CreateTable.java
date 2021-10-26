@@ -10,7 +10,6 @@ import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;
 
 public class CreateTable extends JFrame {
-
     public static String[] typeOfData = {"TINYINT","SMALLINT","MEDIUMINT","INT","BIGINT","FLOAT","DOUBLE","DECIMAL","DATE","TIME","YEAR",
             "DATETIME","TIMESTAMP","CHAR","VARCHAR","TINYBLOB","TINYTEXT","BLOB","TEXT","MEDIUMBLOB","MEDIUMTEXT",
             "LONGBLOB","LONGTEXT"};
