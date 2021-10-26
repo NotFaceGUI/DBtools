@@ -3,6 +3,7 @@ package com.notface;
 import com.notface.form.ConnectionDialog;
 import com.notface.form.MainForm;
 import com.formdev.flatlaf.FlatLightLaf;
+import com.notface.util.PropertiesUtil;
 
 import javax.swing.*;
 import java.util.Properties;
