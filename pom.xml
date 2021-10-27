@@ -98,7 +98,6 @@
             </manifestEntries>
           </archive>
         </configuration>
-
       </plugin>
 
       <!-- 配置依赖包 -->
