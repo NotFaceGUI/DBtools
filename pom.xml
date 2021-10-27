@@ -89,7 +89,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <!-- MANIFEST.MF 中 Class-Path -->
-              <classpathPrefix>lib/</classpathPrefix>
+              <classpathPrefix>libs/</classpathPrefix>
               <mainClass>com.notface.App</mainClass>
             </manifest>
             <manifestEntries>
@@ -117,7 +117,7 @@
               <!-- 排除依赖 -->
               <excludeArtifactIds>junit</excludeArtifactIds>
               <!-- 将依赖包打包至target下的lib目录 -->
-              <outputDirectory>${project.build.directory}/lib</outputDirectory>
+              <outputDirectory>${project.build.directory}/libs</outputDirectory>
             </configuration>
           </execution>
         </executions>
